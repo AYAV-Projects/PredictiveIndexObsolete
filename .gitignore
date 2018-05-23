@@ -1,0 +1,10 @@
+**/Code/SPlsWork/
+*.inf
+*.asv
+*.sm2
+*.sig
+*.dsj_
+*.smft
+*.err
+*.hash
+**/Code/*.Core3
