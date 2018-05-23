@@ -7,4 +7,8 @@
 *.smft
 *.err
 *.hash
+*.sgd
+*.sgd_
+*.ced
 **/Code/*.Core3
+*.Core3
