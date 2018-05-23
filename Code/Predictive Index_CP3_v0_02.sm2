@@ -4976,8 +4976,8 @@ ObjTp=VTP
 H=1
 DvH=801
 VtpGuid=8E0F2DC7-C6BC-49EF-A725-6DF7EB2B1C92
-VTPFile=.\Predictive Index_TSW-760_v_0_01.vtp
-SGDFile=.\Predictive Index_TSW-760_v_0_01.sgd
+VTPFile=..\..\..\GD\Predictive Index\Code\Predictive Index_TSW-760_v_0_01.vtp
+SGDFile=..\..\..\GD\Predictive Index\Code\Predictive Index_TSW-760_v_0_01.sgd
 VtpVer=3
 TSAddr=21
 ]
@@ -4986,8 +4986,13 @@ ObjTp=VTP
 H=2
 DvH=518
 VtpGuid=165AA474-2ED1-4BBA-B82C-EA029C4B4F05
+<<<<<<< HEAD
 VTPFile=.\Predictive Index_IPAD_APP_v_0_01.vtp
 SGDFile=.\Predictive Index_IPAD_APP_v_0_01.sgd
+=======
+VTPFile=..\..\..\GD\Predictive Index\Code\Predictive Index_IPAD_APP_v_0_01.vtp
+SGDFile=..\..\..\GD\Predictive Index\Code\Predictive Index_IPAD_APP_v_0_01.sgd
+>>>>>>> parent of 4aec994... 5-18-2018 Customer Site
 VtpVer=3
 TSAddr=22
 ]
@@ -7226,8 +7231,13 @@ PrH=10
 CF=2
 Cmn1=v1
 mI=2
+<<<<<<< HEAD
 I1=70
 I2=89
+=======
+I1=89
+I2=70
+>>>>>>> parent of 4aec994... 5-18-2018 Customer Site
 mO=0
 tO=2
 O1=91
@@ -7371,8 +7381,13 @@ GrpStI7=0
 GrpStI8=0
 GrpStI9=0
 GrpStI10=0
+<<<<<<< HEAD
 GrpStI11=3
 GrpStI2012=5
+=======
+GrpStI11=4
+GrpStI2012=6
+>>>>>>> parent of 4aec994... 5-18-2018 Customer Site
 GrpStI2013=4
 GrpStI4014=6
 GrpStI4015=4
@@ -7412,8 +7427,13 @@ GrpStO7=0
 GrpStO8=0
 GrpStO9=0
 GrpStO10=0
+<<<<<<< HEAD
 GrpStO11=3
 GrpStO2012=5
+=======
+GrpStO11=4
+GrpStO2012=6
+>>>>>>> parent of 4aec994... 5-18-2018 Customer Site
 GrpStO2013=4
 GrpStO4014=6
 GrpStO4015=4
@@ -7576,8 +7596,13 @@ GrpStI7=0
 GrpStI8=0
 GrpStI9=0
 GrpStI10=0
+<<<<<<< HEAD
 GrpStI11=3
 GrpStI2012=5
+=======
+GrpStI11=4
+GrpStI2012=6
+>>>>>>> parent of 4aec994... 5-18-2018 Customer Site
 GrpStI2013=4
 GrpStI4014=6
 GrpStI4015=4
@@ -7617,8 +7642,13 @@ GrpStO7=0
 GrpStO8=0
 GrpStO9=0
 GrpStO10=0
+<<<<<<< HEAD
 GrpStO11=3
 GrpStO2012=5
+=======
+GrpStO11=4
+GrpStO2012=6
+>>>>>>> parent of 4aec994... 5-18-2018 Customer Site
 GrpStO2013=4
 GrpStO4014=6
 GrpStO4015=4
@@ -7761,8 +7791,13 @@ GrpStI7=0
 GrpStI8=0
 GrpStI9=0
 GrpStI10=0
+<<<<<<< HEAD
 GrpStI11=3
 GrpStI2012=5
+=======
+GrpStI11=4
+GrpStI2012=6
+>>>>>>> parent of 4aec994... 5-18-2018 Customer Site
 GrpStI2013=4
 GrpStI4014=6
 GrpStI4015=4
@@ -7802,8 +7837,13 @@ GrpStO7=0
 GrpStO8=0
 GrpStO9=0
 GrpStO10=0
+<<<<<<< HEAD
 GrpStO11=3
 GrpStO2012=5
+=======
+GrpStO11=4
+GrpStO2012=6
+>>>>>>> parent of 4aec994... 5-18-2018 Customer Site
 GrpStO2013=4
 GrpStO4014=6
 GrpStO4015=4
@@ -10695,15 +10735,15 @@ n1I=10
 n1O=6
 Cmn1=||1Slot-02.IP-ID-21
 mI=10
-I2=1066
-I4=1067
+I2=92
+I4=91
 I6=1156
 I8=1041
 I10=101
 mO=6
 tO=6
-O2=1064
-O4=1065
+O2=89
+O4=70
 O6=1160
 ]
 [
