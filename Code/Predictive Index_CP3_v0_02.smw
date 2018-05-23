@@ -736,13 +736,13 @@ C1=908
 [
 ObjTp=Dv
 Nm=P3Ethernet
-H=268,271.292,295.307,309.324,326.514
+H=268,271.292,294.307,309.324,326.514
 PrH=260
 ObjVer=1
 SlC=234
 DvF=Sl
 DvVr=1056
-Ad=08,0B,0C,0D,0E,0F,10,11,12,13,14,15,16,17,18,19,1A,1B,1C,1D,1E,1F,20,23,24,25,26,27,28,29,2A,2B,2C,2D,2E,2F,31,32,33,34,35,36,37,38,39,3A,3B,3C,3D,3E,3F,40,42,43,44,45,46,47,48,49,4A,4B,4C,4D,4E,4F,50,51,52,53,54,55,56,57,58,59,5A,5B,5C,5D,5E,5F,60,61,62,63,64,65,66,67,68,69,6A,6B,6C,6D,6E,6F,70,71,72,73,74,75,76,77,78,79,7A,7B,7C,7D,7E,7F,80,81,82,83,84,85,86,87,88,89,8A,8B,8C,8D,8E,8F,90,91,92,93,94,95,96,97,98,99,9A,9B,9C,9D,9E,9F,A0,A1,A2,A3,A4,A5,A6,A7,A8,A9,AA,AB,AC,AD,AE,AF,B0,B1,B2,B3,B4,B5,B6,B7,B8,B9,BA,BB,BC,BD,BE,BF,C0,C1,C2,C3,C4,C5,C6,C7,C8,C9,CA,CB,CC,CD,CE,CF,D0,D1,D2,D3,D4,D5,D6,D7,D8,D9,DA,DB,DC,DD,DE,DF,E0,E1,E2,E3,E4,E5,E6,E7,E8,E9,EA,EB,EC,ED,EE,EF,F0,F1,F2,F3,F4,F5,F6,F7,F8,F9,FA,FB,FC,FD,FE
+Ad=08,0B,0C,0D,0E,0F,10,11,12,13,14,15,16,17,18,19,1A,1B,1C,1D,1E,1F,20,22,23,24,25,26,27,28,29,2A,2B,2C,2D,2E,2F,31,32,33,34,35,36,37,38,39,3A,3B,3C,3D,3E,3F,40,42,43,44,45,46,47,48,49,4A,4B,4C,4D,4E,4F,50,51,52,53,54,55,56,57,58,59,5A,5B,5C,5D,5E,5F,60,61,62,63,64,65,66,67,68,69,6A,6B,6C,6D,6E,6F,70,71,72,73,74,75,76,77,78,79,7A,7B,7C,7D,7E,7F,80,81,82,83,84,85,86,87,88,89,8A,8B,8C,8D,8E,8F,90,91,92,93,94,95,96,97,98,99,9A,9B,9C,9D,9E,9F,A0,A1,A2,A3,A4,A5,A6,A7,A8,A9,AA,AB,AC,AD,AE,AF,B0,B1,B2,B3,B4,B5,B6,B7,B8,B9,BA,BB,BC,BD,BE,BF,C0,C1,C2,C3,C4,C5,C6,C7,C8,C9,CA,CB,CC,CD,CE,CF,D0,D1,D2,D3,D4,D5,D6,D7,D8,D9,DA,DB,DC,DD,DE,DF,E0,E1,E2,E3,E4,E5,E6,E7,E8,E9,EA,EB,EC,ED,EE,EF,F0,F1,F2,F3,F4,F5,F6,F7,F8,F9,FA,FB,FC,FD,FE
 ]
 [
 ObjTp=Dv
@@ -782,19 +782,6 @@ DvVr=1056
 Ad=21
 mC=1
 C1=801
-]
-[
-ObjTp=Dv
-Nm=P3Ethernet
-H=294
-PrH=260
-ObjVer=1
-SlC=234
-DvF=Sl
-DvVr=1056
-Ad=22
-mC=1
-C1=518
 ]
 [
 ObjTp=Dv
@@ -865,26 +852,6 @@ Ad=01
 ]
 [
 ObjTp=Dv
-Nm=Crestron App
-H=518
-PrH=294
-DvC=3684
-ObjVer=4
-DvVr=1056
-Ad=22
-SmH=10
-LSymH=95
-RelStat=Release
-ProdLine=Smart Graphics
-DbH=1
-EtH=7
-VtpH=2
-mC=2
-C1=520
-C2=686
-]
-[
-ObjTp=Dv
 Nm=C3COM232_Port
 H=519,521
 PrH=516
@@ -893,34 +860,6 @@ SlC=349
 DvF=Sl
 DvVr=1056
 Ad=02,03
-]
-[
-ObjTp=Dv
-Nm=Fixed
-H=520
-PrH=518
-ObjVer=1
-SlC=2
-DvF=Sl
-DvVr=1056
-Ad=01
-mC=1
-C1=522
-]
-[
-ObjTp=Dv
-Nm=Crestron App Project Name
-H=522
-PrH=520
-DvC=3799
-ObjVer=2
-SlC=2
-DvVr=1056
-Ad=01
-SmH=11
-RelStat=Release
-mC=1
-C1=638
 ]
 [
 ObjTp=Dv
@@ -1659,7 +1598,6 @@ ProdLine=Digital Media
 DbH=6
 CsH=10
 EtH=2
-EthUpl=3
 Loc=OPEN AREA AUDIO ONLY
 mC=21
 C1=640
@@ -2411,9 +2349,7 @@ SmH=393
 RelStat=Release
 ProdLine=DSP
 DbH=15
-CsH=1
 EtH=6
-EthUpl=2
 mC=10
 C1=639
 C2=642
@@ -2425,17 +2361,6 @@ C7=679
 C8=681
 C9=682
 C10=684
-]
-[
-ObjTp=Dv
-Nm=CrestronAppUserProjectName_Slot
-H=638
-PrH=522
-ObjVer=1
-SlC=437
-DvF=Sl
-DvVr=1056
-Ad=01
 ]
 [
 ObjTp=Dv
@@ -2917,32 +2842,6 @@ RelStat=Release
 ]
 [
 ObjTp=Dv
-Nm=Fixed
-H=686
-PrH=518
-ObjVer=1
-SlC=2
-DvF=Sl
-DvVr=1056
-Ad=02
-mC=1
-C1=687
-]
-[
-ObjTp=Dv
-Nm=Crestron App Notification Widget Functions
-H=687
-PrH=686
-DvC=5242
-ObjVer=1
-SlC=2
-DvVr=1056
-Ad=02
-SmH=93
-RelStat=Release
-]
-[
-ObjTp=Dv
 Nm=TSW-760
 H=801
 PrH=293
@@ -2958,7 +2857,6 @@ DbH=25
 CsH=9
 EtH=10
 VtpH=1
-EthUpl=1
 mC=1
 C1=802
 ]
@@ -4255,14 +4153,6 @@ sHs=(None)
 ]
 [
 ObjTp=Db
-H=1
-DvH=518
-Whc=3
-Mnf=Crestron
-Mdl=Crestron App
-]
-[
-ObjTp=Db
 H=2
 DvH=920
 Whc=3
@@ -4503,11 +4393,6 @@ Tpe=DigitalMedia 8G+ 4K Room Controller
 ]
 [
 ObjTp=Cs
-H=1
-DvH=637
-]
-[
-ObjTp=Cs
 H=2
 DvH=615
 ]
@@ -4603,6 +4488,7 @@ Mx2=0
 [
 ObjTp=Bw
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
 H=1
 Lx=0
@@ -4633,6 +4519,22 @@ Hi=1
 [
 ObjTp=Bw
 >>>>>>> parent of 4aec994... 5-18-2018 Customer Site
+=======
+H=1
+Lx=0
+Ly=0
+Rx=932
+Ry=723
+Xm=-1
+Ym=-1
+SH=13
+Z=100
+Ht=1
+Hi=7
+]
+[
+ObjTp=Bw
+>>>>>>> parent of d1dc40b... 5/20/2018 Ipad Interface Added
 H=2
 Lx=0
 Ly=0
@@ -4955,13 +4857,6 @@ IPA=127.0.0.1
 ]
 [
 ObjTp=Et
-H=7
-DvH=518
-IPM=255.255.255.0
-IPA=127.0.0.1
-]
-[
-ObjTp=Et
 H=10
 DvH=801
 IPM=255.255.255.0
@@ -5013,6 +4908,7 @@ VtpVer=3
 TSAddr=21
 ]
 [
+<<<<<<< HEAD
 ObjTp=VTP
 H=2
 DvH=518
@@ -5028,6 +4924,8 @@ VtpVer=3
 TSAddr=22
 ]
 [
+=======
+>>>>>>> parent of d1dc40b... 5/20/2018 Ipad Interface Added
 ObjTp=DSJ
 H=1
 DsjFile=..\DSP\PredictiveIndexAviaSymbols.dsj
@@ -5044,27 +4942,6 @@ ResyncLibId=DSJ
 SmplCInputCue1=Aout 2 OutLevel Mute
 SmplCOutputCue1=Aout 2 OutLevel Mute
 SmplCOutputCue2=Error_message
-]
-[
-ObjTp=EtU
-H=1
-DvH=801
-IPM=255.255.255.0
-IPA=192.168.23.13
-]
-[
-ObjTp=EtU
-H=2
-DvH=637
-IPM=255.255.255.0
-IPA=192.168.23.12
-]
-[
-ObjTp=EtU
-H=3
-DvH=584
-IPM=255.255.255.0
-IPA=192.168.23.11
 ]
 [
 ObjTp=Sm
@@ -5177,11 +5054,10 @@ DvH=260
 PrH=1
 CF=2
 Cmn1=C2I-CP3ENET-1
-mC=4
+mC=3
 C1=406
-C2=10
-C3=393
-C4=340
+C2=393
+C3=340
 ]
 [
 ObjTp=Sm
@@ -5212,66 +5088,6 @@ I1=653
 mO=1
 tO=1
 O1=4
-]
-[
-ObjTp=Sm
-H=10
-SmC=4195
-Nm=Crestron App
-ObjVer=10
-SmVr=1056
-DvH=518
-PrH=7
-CF=2
-n1I=65
-n2I=32
-n1O=65
-Cmn1=Crestron App
-mC=7
-C1=11
-C2=93
-C3=94
-C4=96
-C5=97
-C6=98
-C7=99
-mI=352
-I6=224
-I7=609
-I50=1318
-I51=1320
-I52=1270
-I56=1302
-I57=1314
-I64=1309
-I65=1319
-I67=607
-I100=520
-I347=1173
-I352=2511
-mO=97
-tO=129
-O6=208
-O50=1336
-O55=1325
-O64=1312
-O65=1337
-mP=1
-P1=255d
-]
-[
-ObjTp=Sm
-H=11
-SmC=4322
-Nm=Crestron App Project Name
-ObjVer=3
-SmVr=1056
-DvH=522
-PrH=10
-CF=2
-Cmn1=Crestron App Project Name
-mP=1
-P1=Predictive Index_IPAD_APP_v_0_01
 ]
 [
 ObjTp=Sm
@@ -7075,6 +6891,7 @@ Cmn1=AudioOut6\\
 mC=2
 C1=88
 C2=89
+<<<<<<< HEAD
 ]
 [
 ObjTp=Sm
@@ -7869,44 +7686,164 @@ GrpStO4058=0
 GrpStO4059=4
 GrpStO4080=6
 CedH=5
+=======
+>>>>>>> parent of d1dc40b... 5/20/2018 Ipad Interface Added
 ]
 [
 ObjTp=Sm
-H=99
-SmC=2942
-Nm=Predictive Index_IPAD_APP_v_0_01__Video Matrix sub_Video Switcher.ced
+H=88
+SmC=32
+Nm=Analog Initialize
 ObjVer=1
-PrH=10
+SmVr=1056
+PrH=87
 CF=2
-n1I=6
-n2I=7
-n1O=6
-Cmn1=v1
-mI=13
-I7=223
-I8=209
-I9=210
-I10=211
-I11=212
-I12=213
-I13=236
-mO=13
-tO=13
-O1=20
-O2=214
-O3=53
-O4=63
-O5=201
-O6=202
-O8=203
-O9=204
-O10=205
-O11=206
-O12=207
-O13=227
-mP=1
-P1=2d
-CedH=7
+n1I=9
+n1O=1
+Cmn1=DM-01_AudioOut6\\
+mI=9
+I1=80
+I2=837
+I3=838
+I4=839
+I5=840
+I6=841
+I7=842
+I8=843
+I9=844
+mO=1
+tO=1
+O1=34
+mP=9
+P1=0d
+P2=1d
+P3=2d
+P4=3d
+P5=4d
+P6=5d
+P7=6d
+P8=7d
+P9=8d
+]
+[
+ObjTp=Sm
+H=89
+SmC=38
+Nm=Analog Equate
+ObjVer=1
+SmVr=1056
+PrH=87
+CF=2
+n1I=2
+n1O=9
+mI=2
+I1=845
+mO=9
+tO=9
+O1=295
+O2=850
+O3=851
+O4=852
+O5=853
+O6=856
+O7=857
+O8=858
+O9=859
+mP=9
+P1=0d
+P2=1d
+P3=2d
+P4=3d
+P5=4d
+P6=5d
+P7=6d
+P8=7d
+P9=8d
+]
+[
+ObjTp=Sm
+H=90
+SmC=156
+Nm=SUBSYSTEM
+ObjVer=1
+SmVr=1056
+PrH=68
+CF=2
+Cmn1=AudioOut7\\
+mC=2
+C1=91
+C2=92
+]
+[
+ObjTp=Sm
+H=91
+SmC=32
+Nm=Analog Initialize
+ObjVer=1
+SmVr=1056
+PrH=90
+CF=2
+n1I=9
+n1O=1
+Cmn1=DM-01_AudioOut7\\
+mI=9
+I1=82
+I2=860
+I3=862
+I4=864
+I5=865
+I6=866
+I7=867
+I8=868
+I9=869
+mO=1
+tO=1
+O1=35
+mP=9
+P1=0d
+P2=1d
+P3=2d
+P4=3d
+P5=4d
+P6=5d
+P7=6d
+P8=7d
+P9=8d
+]
+[
+ObjTp=Sm
+H=92
+SmC=38
+Nm=Analog Equate
+ObjVer=1
+SmVr=1056
+PrH=90
+CF=2
+n1I=2
+n1O=9
+mI=2
+I1=870
+mO=9
+tO=9
+O1=297
+O2=871
+O3=872
+O4=873
+O5=874
+O6=875
+O7=876
+O8=877
+O9=878
+mP=9
+P1=0d
+P2=1d
+P3=2d
+P4=3d
+P5=4d
+P6=5d
+P7=6d
+P8=7d
+P9=8d
 ]
 [
 ObjTp=Sm
@@ -9081,13 +9018,12 @@ SmVr=1056
 PrH=31
 CF=2
 Cmn1=DSP-01\\
-mC=6
+mC=5
 C1=265
-C2=95
-C3=140
-C4=212
-C5=209
-C6=213
+C2=140
+C3=212
+C4=209
+C5=213
 ]
 [
 ObjTp=Sm
@@ -16521,39 +16457,6 @@ Cmn1=Speech Volume Sub\\
 ]
 [
 ObjTp=CED
-H=1
-SmH=94
-CedVer=1
-CedMod=Crestron DSP Routing Module v1.2.0.cmc
-GUID=1BB61796-F8EC-4DBB-B01E-3DDC3CCAB199
-Hint=1283 (Device 1) (Smart Object ID=5)
-SGControlType=Crestron App
-SGControlName=1283 (Device 1)
-]
-[
-ObjTp=CED
-H=2
-SmH=96
-CedVer=1
-CedMod=
-GUID=D3A5AE2A-50EF-4020-A2FD-F42BF19123AA
-Hint=Control Bar Buttons (Smart Object ID=3)
-SGControlType=Subpage Reference List Horizontal
-SGControlName=Control Bar Buttons
-]
-[
-ObjTp=CED
-H=3
-SmH=97
-CedVer=1
-CedMod=
-GUID=B8D8B96E-B8BC-4594-BD58-9FC9DFB51132
-Hint=Welcom Screen Buttons (Smart Object ID=4)
-SGControlType=Subpage Reference List Horizontal
-SGControlName=Welcom Screen Buttons
-]
-[
-ObjTp=CED
 H=4
 SmH=171
 CedVer=1
@@ -16565,17 +16468,6 @@ SGControlName=Welcom Screen Buttons
 ]
 [
 ObjTp=CED
-H=5
-SmH=98
-CedVer=1
-CedMod=
-GUID=E8E1176C-6B8E-414B-8653-6EB8A30DA6E7
-Hint=Presentation Menu (Smart Object ID=1)
-SGControlType=Subpage Reference List Horizontal
-SGControlName=Presentation Menu
-]
-[
-ObjTp=CED
 H=6
 SmH=264
 CedVer=1
@@ -16584,17 +16476,6 @@ GUID=4027CE06-54FF-4BC6-8AB2-770396AB30B6
 Hint=1283 (Device 1) (Smart Object ID=5)
 SGControlType=TSW-760
 SGControlName=1283 (Device 1)
-]
-[
-ObjTp=CED
-H=7
-SmH=99
-CedVer=1
-CedMod=
-GUID=C4F924D6-B868-4B54-90D1-9B79EC575D94
-Hint=Video Switcher (Smart Object ID=2)
-SGControlType=Video Switcher
-SGControlName=Video Switcher
 ]
 [
 ObjTp=CED
@@ -16989,12 +16870,6 @@ Nm=DM-01_VideoOut7_Src0
 ]
 [
 ObjTp=Sg
-H=70
-Nm=Crestron_App_94_CRPC_fb
-SgTp=4
-]
-[
-ObjTp=Sg
 H=71
 Nm=VP-02_Video_On
 ]
@@ -17087,17 +16962,12 @@ Nm=//RX-01_Offline
 ]
 [
 ObjTp=Sg
-H=89
-Nm=Crestron_App_94_Message_fb
-SgTp=4
-]
-[
-ObjTp=Sg
 H=90
 Nm=VP-02_WarmingTimerActive_fb
 ]
 [
 ObjTp=Sg
+<<<<<<< HEAD
 H=91
 Nm=Crestron_App_94_CRPC
 SgTp=4
@@ -17124,6 +16994,8 @@ SgTp=4
 ]
 [
 ObjTp=Sg
+=======
+>>>>>>> parent of d1dc40b... 5/20/2018 Ipad Interface Added
 H=95
 Nm=//VP-01_WarmingTimer_an
 SgTp=2
